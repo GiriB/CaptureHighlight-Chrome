@@ -3,6 +3,15 @@ A ChromeExtension and ChromeApp that allows you to capture text that you like on
 
 Developed as part of my WebTech Lab mini-project.
 
+![CaptureHighlightExtension](screenshots/one.png "Extension Button")
+Extension Button
+
+![CaptureHighlightApp](screenshots/three.png "Chrome App")
+Chrome App
+
+![It works like a native app!](screenshots/two.png "Launchable from Spotlight!")
+Launchable from Spotlight
+
 ## How to install
 1. Open Chrome Browser. 
 2. Type `chrome://extensions/` in the address bar. 
@@ -14,3 +23,5 @@ Developed as part of my WebTech Lab mini-project.
 1. Go to any website, highlight some text. Click on the extension button in the menu bar. 
 2. The text will be saved for you. To access it open the ChromeExtensionApp.
 3. Enjoy! 
+
+
